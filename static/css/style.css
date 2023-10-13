@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Open+Sans:wght@300&family=Poppins:wght@300&display=swap');
+
+html{
+    font-size:14px
+}
+body{
+    font-family:'Noto Sans',sans-serif;
+}
+a{
+    text-decoration: none;
+}
+
