@@ -1,4 +1,4 @@
-# fashion_cart
+# User Authentication
  
 To initalize the project in your system ,must follow the below commands
 
