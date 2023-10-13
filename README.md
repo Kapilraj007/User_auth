@@ -8,7 +8,7 @@ To initalize the project in your system ,must follow the below commands
 
 -> third, Install git in your system -> For, linux sudo apt install git
 
--> Fourth, Import the code from git, using this cmd -> git clone https://github.com/Kapilraj007/curdoperation_flask.git
+-> Fourth, Import the code from git, using this cmd -> git clone https://github.com/Kapilraj007/User_auth.git
 
 -> Fivth, create virtual environment,-> pip install pipenv and for activating virtual environment , -> pipenv shell
 
